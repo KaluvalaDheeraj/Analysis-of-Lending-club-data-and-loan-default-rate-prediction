@@ -22,3 +22,6 @@ We initially read the data from the database, and then perform exploratory data 
 6 	Bagging using Logistic Regression	0.817 	- 	- 
 7 	Ada Boosting 	0.819 	- 	- 
 8 	Multi layer Perceptron (MLP) 	0.818 	0.83 	0.82 
+
+## Dataset taken from :
+https://www.lendingclub.com/info/download-data.action
